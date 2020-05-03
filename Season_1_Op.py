@@ -1,7 +1,7 @@
 import requests
 import bs4 as bs
 
-
+#I was interested in Buffy ratings.
 #Create a place to store our collected information:
 imdbRating = []
 title = []
