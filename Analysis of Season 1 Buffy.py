@@ -21,7 +21,7 @@ plt.xlabel ("Episode Rating")
 plt.show()
 
 #Other Analysis
-#See the middle number of the ratings
+#See the middle number of the ratings etc
 Range = (dataFrame["Rating"].max() - dataFrame['Rating'].min())
 Mean = dataFrame["Rating"].mean()
 Median = dataFrame['Rating'].median()
